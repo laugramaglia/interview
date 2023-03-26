@@ -13,14 +13,14 @@ https://www.figma.com/file/zrGkld71S0CqUu3aAGhGiX/interview-ui?node-id=0%3A1&t=8
 ## Project structure
 
 features
-- <feature> 
-    - data
-        -  models
-    - domain
-        - repositories
-    - presentation
-        - ui
-            - widgets
-            - pages
-        - providers
+ <feature> 
+     data
+          models
+     domain
+         repositories
+     presentation
+         ui
+             widgets
+             pages
+         providers
             
