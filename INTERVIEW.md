@@ -10,7 +10,7 @@
 
 https://www.figma.com/file/zrGkld71S0CqUu3aAGhGiX/interview-ui?node-id=0%3A1&t=8LB9Lsu9kX1e4MnY-1
 
-## project structure
+## Project structure
 
 - features
 -- <feature> 
